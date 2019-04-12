@@ -1,10 +1,13 @@
 _repo: The-Seven-Conundrums_59198
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Morgan, Wallace
     gutenberg_agent_id: '7934'
     url: http://www.gutenberg.org/2009/agents/7934
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59198#The-Seven-Conundrums
 gutenberg_issued: '2019-04-03'
 gutenberg_type: Text
 identifiers:
